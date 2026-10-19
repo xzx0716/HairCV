@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+batch_results_*.csv
+.venv/
+venv/
